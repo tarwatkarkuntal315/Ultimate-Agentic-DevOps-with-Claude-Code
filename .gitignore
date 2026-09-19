@@ -2,3 +2,4 @@
 *.tfstate
 *.tfstate.*
 .claude/settings.local.json
+.claude/deploy.log
