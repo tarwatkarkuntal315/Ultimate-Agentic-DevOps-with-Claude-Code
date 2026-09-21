@@ -193,7 +193,7 @@ body {
 .hero-overlay {
   position: absolute;
   inset: 0;
-  background: rgba(0, 0, 0, 0.25);
+  background: linear-gradient(135deg, #1a1a2e, #16213e);
   padding-top: 20px;
 }
 
